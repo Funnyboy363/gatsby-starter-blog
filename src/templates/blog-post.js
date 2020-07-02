@@ -58,7 +58,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             padding: 0,
           }}
         >
-          <li>
+          {/* <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
@@ -71,7 +71,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 {next.frontmatter.title} →
               </Link>
             )}
-          </li>
+          </li> */}
+          {/* add the above code back in when there is more blogs added */}
         </ul>
       </nav>
     </Layout>

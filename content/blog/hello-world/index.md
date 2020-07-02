@@ -1,22 +1,22 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Post Graduation Hardships
+date: "2020-07-01T22:12:03.284Z"
+description: "When getting that call matters..."
 ---
 
-This is my first post on my new fake blog! How exciting!
+Well, this is going to be a long adventure. 
 
-I'm sure I'll write a lot more interesting things in the future.
+I guess I'll start from earlier this year. 
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+During the spring semester of 2020, I was working at Utah Valley University. Because it was my LAST semester at UVU, there started to become some things to worry about. There was making sure I finished all my classes and passed them to graduate, and then there was making sure that I found another job before May ended. 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Why?
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Well, the reason why is because I was in a student position at the school in the Web development services department. Since I was graduating, I wasn't going to be a student, so I was going to be let go at the end of May. 
+
+I tell ya. Ever since April, I've been applying for so many Web Developer related jobs. It's got to the point where I'm not even getting phone calls for interviews now. It's frustrating. I try not to take it personally, but it's hard not to, ya know? What am I doing wrong? What's wrong with my resume or portfolio? It's hard for me to figure out. 
+I was hoping to get interviews by now, but I'm not being given a chance. 
+
+Ever since I graduated and my job at the school ended, I have been looking. It feels like my life is suddently changed and different. Ugh. I hate this. 
+
+You know what though? I'm not giving up. I'm not backing down. I got my degree! I got that paper! I deserve to get a web developer job! I'm going to keep applying at places and hope that a company sees my value! I'm also practicing code. I'm currently learning some Reactjs when I can. I think that the day that I get the next awesome Web career will be such a happy day!
