@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `GSWebDev Blog`,
+    title: `GSWebDev`,
     author: {
       name: `Grant Shoop,`,
-      summary: `a Wev Devloper in Pleasant Grove, Utah`,
+      summary: `a Web Developer in Pleasant Grove, Utah`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
