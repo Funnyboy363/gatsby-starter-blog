@@ -73,6 +73,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             )}
           </li> */}
           {/* add the above code back in when there is more blogs added */}
+        { <li> <Link to={'/'} rel="Home">Back to Home</Link> </li>}
         </ul>
       </nav>
     </Layout>
