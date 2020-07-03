@@ -19,4 +19,6 @@ I was hoping to get interviews by now, but I'm not being given a chance.
 
 Ever since I graduated and my job at the school ended, I have been looking. It feels like my life is suddently changed and different. Ugh. I hate this. 
 
+I completely understand that a lot of this is part of the COVID-19 pandemic and companies are needing to be careful or they are on a hiring freeze, who knows what else! From my point of view, it's rough. I miss coding in an office with other web developers. I miss the feeling of being in that setting! 
+
 You know what though? I'm not giving up. I'm not backing down. I got my degree! I got that paper! I deserve to get a web developer job! I'm going to keep applying at places and hope that a company sees my value! I'm also practicing code. I'm currently learning some Reactjs when I can. I think that the day that I get the next awesome Web career will be such a happy day!
