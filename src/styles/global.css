@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: rgb(109, 174, 196);
+    text-decoration: none !important;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+h1 {
+    color: rgb(134, 255, 255);
+}
