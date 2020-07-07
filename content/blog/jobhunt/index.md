@@ -6,7 +6,7 @@ description: "Never gonna give it up, never gonna lose my mind, maybe someday I'
 
 They say that hunting for a job is essentially a full time job itself. When I started looking for a job back in (technically) May, I wasn't looking as hard as I am now. For some reason, I assumed that it was going to be easy to find a career in web development as soon as I graduated. As time went by, I realized that it was going to be a hard road and a challenge. 
 
-As of today, I have applied at close to 34 open positions on both Indeed, LinkedIn and ZipRecruiter. Only a few have sent me rejection emails. A believe there's a good handful that just haven't responded. I am pretty sure there are more that I have applied at, but I haven't kept track on my google spreadsheet. 
+As of today, I have applied at close to 34 open positions on Indeed, LinkedIn and ZipRecruiter. Only a few have sent me rejection emails. A believe there's a good handful that just haven't responded. I am pretty sure there are more that I have applied at, but I haven't kept track on my google spreadsheet. 
 
 <strong>Today was my day off for the week.</strong> 
 
