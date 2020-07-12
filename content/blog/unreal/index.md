@@ -20,4 +20,8 @@ Part of me also feels like I need to study, learn, and practice code more in ord
 AAAHHH!!! I hate this. This is what i've been dealing with lately. The good ol' imposter syndrome. 
 I will keep at it and try my best to get a job. 
 
+Another thing that happened recently that brought me down: I saw a post on LinkedIn that a fellow classmate got hired for one of the places I applied at. Don't get me wrong, it's good that this person got the job, but it pains me since I wasn't even given an interview. I'm not saying that this individual doesn't deserve the job, I don't hate the person. It just sucks I wasn't given the chance. 
+
+I think it's accurate to say that this week wasn't a very good one. I have some interviews this coming week. Hopefully they will go well and I will get at least one job offer. 
+
 Thank you for reading. Any moral support is greatly appreciated.
