@@ -6,7 +6,7 @@ description: "There's a slight chance I might ACTUALLY get a web job soon"
 
 Alright, well. Where to start?
 
-First off, I want to put it out there, that I have reflected on myself lately. My mindset has not been a good one because it has been rough with being able to land a web related job. My dad talked to me today and he said that he was concerned for me because he knew that I was going through a rough time. I decided that I need to try and be more positive and not focus on the negative so much. 
+First off, I want to put it out there, that I have reflected on myself lately. My mindset has not been a good one because it has been rough with not being able to land a web related job. My dad talked to me today and he said that he was concerned for me because he knew that I was going through a rough time. I decided that I need to try and be more positive and not focus on the negative so much. 
 
 With that being said, here's what went down lately that has made me kind of happy. On friday, I got a message from a hiring manager for a business that I applied to. 
 
