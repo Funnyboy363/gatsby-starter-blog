@@ -1,7 +1,7 @@
 ---
 title: Back in the Game!
 date: "2020-08-09T22:12:03.284Z"
-description: "Got a job offer.....here's what happned"
+description: "Got a job offer.....here's what happened"
 ---
 
 I feel like this should be a video blog because of how happy I am, but for now, I will just write out what has happened.
