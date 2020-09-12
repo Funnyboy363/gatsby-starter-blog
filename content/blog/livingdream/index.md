@@ -1,7 +1,7 @@
 ---
-title: Living the dream??? Sort Of
+title: Is this my version Living the dream???
 date: "2020-09-11T22:12:03.284Z"
-description: "Is this what Web Development is?"
+description: "Ever get hired for a job, and when you start working, you go in...."
 ---
 
 Ever get hired for a job, and when you start working, you go in with somewhat of an idea or expectation of how it will be? Then after a few days to a week of working, you get the hang of things and understand what the job consists of? That's basically where I'm at right now. I'm not complaining. I'm just saying that I know what I'm doing now with this career and my day to day work. 
