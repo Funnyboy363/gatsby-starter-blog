@@ -4,6 +4,8 @@ date: "2021-07-14T22:12:03.284Z"
 description: "A new change of pace"
 ---
 
+<img src="https://blog.openclassrooms.com/en/wp-content/uploads/sites/4/2018/03/web-develoment.jpg">
+
 It has been a VERY interesting year in Web Development for me. Like Wow! And things are going to change now. <br>
 The job that I was lucky to get last year came to an end. Got a call on a Monday morning. Was told that my contract was coming to an end and they could not continue my employment. They said that they would be giving me two weeks. <br>
 The first few days of knowing this gave me anxiety and made me bummed because I really liked the job, for one, and for two, I am not a fan of getting another job. 
